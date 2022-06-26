@@ -363,13 +363,6 @@ a {
     }
 }
 
-@media (max-height: 700px) {
-
-    .info-box {
-        margin-top: 10%;
-    }
-}
-
 nav.navbar {
     background: none;
     color: black;
