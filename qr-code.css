@@ -193,7 +193,7 @@ label {
 
 input:focus {
     border-bottom-color: #d884b3;
-/ / transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
     transition: all .6s ease;
     color: black;
 }
@@ -353,7 +353,7 @@ a {
 
 @media (max-height: 850px) {
     .info-box {
-        margin-top: 25%;
+        margin-top: 0;
     }
 
     .info-qr-code {
